@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YP Tech Talk # the main title
+title: Yasin Blog # the main title
 
 tagline: Documented Tech Journey  # it will display as the sub-title
 
@@ -38,11 +38,11 @@ social:
   email: ys.price28@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-     # change to your twitter homepage
+  # change to your twitter homepage
     - https://github.com/YsPrice # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/yasin-price-46a581218/
+  - https://www.linkedin.com/in/yasin-price-46a581218/
 
 google_site_verification: # fill in to your verification string
 
@@ -73,8 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4E03AQFHfQ9X3NTA6A/profile-displayphoto-shrink_800_800/0/1689067147581?e=1704326400&v=beta&t=ghx9a_rBPol519ROvSIcZiGXrBA-u_7j1H2BP5ngSqw
-
+avatar:
 # boolean type, the global switch for TOC in posts.
 toc: true
 

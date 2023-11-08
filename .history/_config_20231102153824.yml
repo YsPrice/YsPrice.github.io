@@ -14,7 +14,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: YP Tech Talk # the main title
+title: Yasin Blog # the main title
 
 tagline: Documented Tech Journey  # it will display as the sub-title
 
@@ -63,7 +63,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode:  [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
